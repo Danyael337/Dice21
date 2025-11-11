@@ -1,0 +1,1 @@
+{"Spelare": 2, "Dealer": 1, "Oavgjort": 0}
